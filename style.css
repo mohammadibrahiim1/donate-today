@@ -16,6 +16,9 @@ body{
 
 .header-content{
     text-align: center;
+    width: 50%;
+    margin: 0 auto;
+
   
  }
 
@@ -53,5 +56,93 @@ body{
 
 .link-style {
     margin-top:25px;
+
+}
+
+.donate-section{
+    text-align: center;
+}
+
+.donate-section h1{
+    font-size: 48px;
+    font-weight: 700;
+    text-transform: capitalize;
+    margin-top:85px;
+}
+
+.donate-section-content-style{
+    font-size: 16px;
+    font-family: poppins;
+  color: #767676;
+  margin-top:-19px ;
+  font-weight: 400;
+  line-height: 25px;
+}
+
+.donate-section-amount {
+    display: flex;
+    justify-content: space-evenly;
+    width: 25%;
+    margin: 0 auto;
+    margin-top: 20px;
+   
+
+   
+}
+
+.donate-section-amount p{
+    font-size: 16px;
+    font-weight: 700;
+    color: rgb(94, 94, 94);
+    border: 1px solid #f3f3f3;
+    padding: 25px 10px;
+    background-color: #f3f3f3;
+}
+
+#donate-section-amount-style{
+    border-color: tomato;
+    color: tomato;
+    background-color: #fdd6d6b9;
+    
+
+}
+
+input {
+    border: none;
+    border-bottom: 1px solid gray;
+    width: 30%;
+    border-color: tomato;
+   
+    
+    
+}
+
+.donate-section-input-style{
+    margin-top: 20px;
+   
+}
+
+.donate-section-input-style :placeholder-shown{
+    text-align: center;
+    font-family: poppins;
+   text-transform: capitalize;
+   font-weight: 700;
+
+}
+
+.donate-section-link-style{
+    margin: 35px;
+    
+}
+
+.donate-section-link-style a{
+    border:1px solid  #FF5959;
+    color: #FFFFFF;
+    background-color: tomato;
+    padding: 9px 15px;
+    text-decoration: none;
+    border-radius: 5px;
+    text-transform: capitalize;
+    font-size: 14px;
 
 }
