@@ -276,3 +276,39 @@ input {
 }
 
 
+.team-work{
+    font-size: 48px;
+    text-align: center;
+    margin-top: 110px;
+}
+
+
+.work-section{
+    display: flex;
+    width: 50%;
+    margin: 0 auto;
+    justify-content: space-evenly;
+    text-align: center;
+    font-size: 18px;
+    border: 1px solid thistle;
+    color: tomato;
+    background-color: thistle;
+    margin-top: -30px;
+}
+
+
+
+.work-content {
+
+    border: 1px solid thistle;
+    background-color: thistle;
+
+   
+   
+}
+
+.work-content p{
+    margin-top: -20px;
+}
+
+
