@@ -311,4 +311,60 @@ input {
     margin-top: -20px;
 }
 
+.update-section{
+    width: 50%;
+    margin: 0 auto;
+    text-align: center;
+    margin-top: 100px;
+}
+
+.update-section h1{
+    font-size: 48px;
+    text-transform: capitalize;
+
+}
+.update-section p{
+    font-size: 14px;
+    color: #767676;
+    font-family: poppins;
+    margin-top: -19px;
+
+}
+
+.input-button{
+    border: 1px solid bisque;
+    padding: 50px 10px ;
+    width: 75%;
+    margin: 0 auto;
+    margin-top: 40px;
+    background-color: bisque;
+}
+
+.input-button a{
+    border:1px solid  #FF5959;
+    color: #FFFFFF;
+    background-color: tomato;
+    padding: 9px 15px;
+    text-decoration: none;
+    text-transform: capitalize;
+    font-size: 14px;
+    align-items: center;
+    
+
+}
+
+.input-button input{
+    border: 1px solid gainsboro;
+    padding: 10px 16px;
+    background-color: gainsboro;
+    font-size: 14px;
+    text-transform: capitalize;
+
+    
+}
+
+.input-button input{
+    margin-right: -10px;
+}
+
 
