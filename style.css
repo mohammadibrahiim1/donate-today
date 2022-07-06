@@ -229,7 +229,8 @@ input {
 
 .img-style{
     width: 380px;
-    height: 380px;px;
+    height: 380px;
+    border-radius: 5px;
 }
 
 .depend-donation p{
