@@ -301,6 +301,7 @@ input {
     text-align: center;
     font-size: 18px;
     border: 1px solid thistle;
+    border-radius: 3px;
     color: tomato;
     background-color: thistle;
     margin-top: 30px;
@@ -311,6 +312,7 @@ input {
 .work-content {
 
     border: 1px solid thistle;
+    
     background-color: thistle;
 
    
@@ -349,6 +351,7 @@ input {
 
 .input-button{
     border: 1px solid bisque;
+    border-radius: 3px;
     padding: 50px 10px ;
     width: 75%;
     margin: 0 auto;
