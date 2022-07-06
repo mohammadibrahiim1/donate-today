@@ -260,7 +260,9 @@ input {
 }
 
 .service-card p{
-    font-size: ;
+    font-size:16 ;
+    font-weight: 400;
+    line-height: 25px;
 }
 
 
