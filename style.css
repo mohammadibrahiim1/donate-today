@@ -220,6 +220,13 @@ input {
 
 }
 
+.service-content{
+    display: flex;
+    width: 60%;
+    margin: 0 auto;
+    justify-content: space-evenly;
+}
+
 .service-section-content h1{
 
     text-align: center;
@@ -231,12 +238,7 @@ input {
     text-transform: capitalize;
 }
 
-.service-content{
-    display: flex;
-    width: 60%;
-    margin: 0 auto;
-    justify-content: space-evenly;
-}
+
 
 .service-card{
     border: 1px solid rgb(243, 244, 207);
