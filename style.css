@@ -278,12 +278,17 @@ input {
 
 
 .team-work{
-    font-size: 48px;
+   
     text-align: center;
     margin-top: 110px;
-   
     padding-top: 40px;
-   padding-bottom: 150px;
+    padding-bottom: 150px;
+}
+.team-work h1{
+    font-size: 48px;
+    text-transform: capitalize;
+    font-weight: 700;
+
 }
 
 
@@ -297,7 +302,7 @@ input {
     border: 1px solid thistle;
     color: tomato;
     background-color: thistle;
-    margin-top: -30px;
+    margin-top: 30px;
 }
 
 
@@ -320,13 +325,19 @@ input {
     margin: 0 auto;
     text-align: center;
     margin-top: 100px;
+    
 }
 
 .update-section h1{
     font-size: 48px;
     text-transform: capitalize;
-
+    font-weight: 700;
 }
+
+
+    
+
+
 .update-section p{
     font-size: 14px;
     color: #767676;
