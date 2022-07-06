@@ -219,5 +219,60 @@ input {
 
 }
 
+.depend-donation{
+  display: flex;
+ width: 45%;
+ margin: 0 auto;
+  
+}
+
+.img-style{
+    width: 380px;
+    height: 380px;px;
+}
+
+.depend-donation p{
+    width: 415px;
+    text-align: left;
+    font-family: poppins;
+    color: #767676;
+}
+
+.depend-donation h2{
+    font-size: 32px;
+    text-transform: capitalize;
+    font-weight: 700;
+}
+
+.lives-depend{
+
+    padding-right: 70px;
+   
+    
+}
+
+.lives-depend a{
+    border:1px solid  #FF5959;
+    color: #FFFFFF;
+    background-color: tomato;
+    padding: 9px 15px;
+    text-decoration: none;
+    border-radius: 5px;
+    text-transform: capitalize;
+    font-size: 14px;
+   
+}
+
+.link-style{
+    margin-top: 35px;
+}
+
+.depend-donation{
+    margin-top: 100px;
+}
+
+.depend-content{
+    margin-left: 35px;
+}
 
 
